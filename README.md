@@ -13,18 +13,7 @@ This project presents a rigorous statistical analysis of an A/B test conducted o
 
 ---
 
-## 🚀 Project Workflow
 
-```mermaid
-graph TD
-    A[Data Acquisition] --> B[Data Cleaning & Preprocessing]
-    B --> C[Exploratory Data Analysis - EDA]
-    C --> D[KPI Calculation & Visualization]
-    D --> E[Statistical Hypothesis Testing]
-    E --> F[Business Insight & Recommendations]
-```
-
----
 
 ## 📖 Data Dictionary
 The dataset contains daily performance metrics for both campaign groups.
