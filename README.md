@@ -87,6 +87,3 @@ To evaluate the effectiveness of the campaigns, we conducted a **One-Tailed Z-Te
 
 ---
 
-## 📬 Contact & Portfolio
-*Created by Jules - Data Science Specialist*
-[GitHub Portfolio](https://github.com/) | [LinkedIn](https://linkedin.com/)
